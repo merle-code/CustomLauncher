@@ -1,0 +1,7 @@
+{
+  "base_dir": "/path/to/workspaces",
+  "extensions": [".code-workspace"],
+  "program": "code",
+  "args_template": "{file}",
+  "name": "VSCode"
+}
